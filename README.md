@@ -1,9 +1,9 @@
 # 💫 About Me:
-Hi, I'm Himanshu — a **full stack developer** 🧑‍💻 and **app developer** 📱 with a deep love for **theoretical computer science** 🧠. I enjoy exploring the elegant principles behind computation while building practical, scalable solutions that make an impact.<br>
-🚀 Currently Exploring: <br>
-- *📊 Data Analytics*<br>
-- *🤖 Artificial Intelligence & Machine Learning*<br>
-- *🏗️ System Design & Architecture*<br> 
+Hi, I'm Himanshu — a **full stack developer** 🧑‍💻 and **app developer** 📱 with a deep love for **theoretical computer science** 🧠. I enjoy exploring the elegant principles behind computation while building practical, scalable solutions that make an impact.
+🚀 Currently Exploring:
+- *📊 Data Analytics*
+- *🤖 Artificial Intelligence & Machine Learning*
+- *🏗️ System Design & Architecture* 
 Whether it's crafting intuitive user interfaces or architecting robust backend systems, I thrive on solving complex problems and continuously expanding my technical horizon.
 
 
