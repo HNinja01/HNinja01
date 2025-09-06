@@ -20,12 +20,19 @@ Hi, I'm Himanshu — a **full stack developer** 🧑‍💻 and **app developer*
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HNinja01&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HNinja01&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HNinja01&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HNinja01&theme=merko&show_icons=true)](https://github.com/HNinja01/github-readme-stats)
+![](https://nirzak-streak-stats.vercel.app/?user=HNinja01&theme=vision-friendly-dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HNinja01&theme=highcontrast&layout=compact)
+
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HNinja01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HNinja01&theme=monokai)](https://github.com/HNinja01/github-profile-trophy)
+
+
+
+
+
+
 
 
 
