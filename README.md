@@ -21,8 +21,8 @@ Hi, I'm Himanshu — a **full stack developer** 🧑‍💻 and **app developer*
 
 # 📊 GitHub Stats:
 [![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HNinja01&theme=merko&show_icons=true)](https://github.com/HNinja01/github-readme-stats)
-![](https://nirzak-streak-stats.vercel.app/?user=HNinja01&theme=vision-friendly-dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HNinja01&theme=highcontrast&layout=compact)
+<br>![](https://nirzak-streak-stats.vercel.app/?user=HNinja01&theme=vision-friendly-dark&hide_border=true)
+<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HNinja01&theme=highcontrast&layout=compact)
 
 
 ## 🏆 GitHub Trophies
