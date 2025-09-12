@@ -26,11 +26,10 @@ Hi, I'm Himanshu — a **full stack developer** 🧑‍💻 and **app developer*
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=HNinja01&theme=monokai)](https://github.com/HNinja01/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HNinja01&theme=radical)](https://github.com/HNinja01/github-profile-trophy)
 
-
-
-
+## Views Counter
+![](https://komarev.com/ghpvc/?username=HNinja01&color=yellowgreen&style=flat-square)
 
 
 
