@@ -31,7 +31,7 @@ Hi, I'm Himanshu — a **full stack developer** 🧑‍💻 and **app developer*
 
 <div class="image123">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" height="1150" width="1200" style="float:left">
-    <br><img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="300" height="310">
+    <br><img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="230" height="360">
     <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="240"height="300">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="240" height="300">
     <img src="https://github.com/user-attachments/assets/f33c5d19-64ae-41c5-be85-8d86b37a5a0d" width="218" height="350">
