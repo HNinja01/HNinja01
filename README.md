@@ -26,10 +26,10 @@ Hi, I'm Himanshu — a **full stack developer** 🧑‍💻 and **app developer*
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=HNinja01&theme=radical)](https://github.com/HNinja01/github-profile-trophy)
 
-## Views Counter:<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="70">
+# Views Counter:<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="70">
 ![](https://komarev.com/ghpvc/?username=HNinja01&color=yellowgreen&style=flat-square)
 
-## ✨Fun Zone: <div align=""><img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/></div>
+# ✨Fun Zone: <div align=""><img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/></div>
 <!-- Top Banner -->
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" style="margin-bottom: 20px;">
@@ -38,18 +38,16 @@ Hi, I'm Himanshu — a **full stack developer** 🧑‍💻 and **app developer*
 <!-- GIF Collage Table -->
 <table align="center">
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="280" height="280"></td>
-    <td><img src="https://github.com/user-attachments/assets/f33c5d19-64ae-41c5-be85-8d86b37a5a0d" width="280" height="280"></td>
-    <td><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="280" height="280"></td>
+    <td><img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400" height="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/f33c5d19-64ae-41c5-be85-8d86b37a5a0d" width="400" height="300"></td>
   </tr>
   <tr>
-    <td colspan="3" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="840" height="480">
-    </td>
+    <td><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="400" height="300"></td>
+    <td><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400" height="300"></td>
   </tr>
 </table>
 
-<!-- Bottom Footer GIF -->
+<!-- Bottom Banner -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" style="margin-top: 20px;">
 </div>
