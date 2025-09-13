@@ -5,6 +5,9 @@ Hi, I'm Himanshu — a **full stack developer** 🧑‍💻 and **app developer*
 - *🤖 Artificial Intelligence & Machine Learning*
 - *🏗️ System Design & Architecture*<br>
 <br> Whether it's crafting intuitive user interfaces or architecting robust backend systems, I thrive on solving complex problems and continuously expanding my technical horizon.
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400" height="400" style="margin-bottom: 20px;"> 
+</div>
 
 # 💻 Tech Stack: <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100">
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![JUPYTER](https://img.shields.io/badge/Jupyter-Notebooks?style=for-the-badge&logo=%3Csvg%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3EJupyter%3C%2Ftitle%3E%3Cpath%20d%3D%22M7.157%2022.201A1.784%201.799%200%200%201%205.374%2024a1.784%201.799%200%200%201-1.784-1.799%201.784%201.799%200%200%201%201.784-1.799%201.784%201.799%200%200%201%201.783%201.799zM20.582%201.427a1.415%201.427%200%200%201-1.415%201.428%201.415%201.427%200%200%201-1.416-1.428A1.415%201.427%200%200%201%2019.167%200a1.415%201.427%200%200%201%201.415%201.427zM4.992%203.336A1.047%201.056%200%200%201%203.946%204.39a1.047%201.056%200%200%201-1.047-1.055A1.047%201.056%200%200%201%203.946%202.28a1.047%201.056%200%200%201%201.046%201.056zm7.336%201.517c3.769%200%207.06%201.38%208.768%203.424a9.363%209.363%200%200%200-3.393-4.547%209.238%209.238%200%200%200-5.377-1.728A9.238%209.238%200%200%200%206.95%203.73a9.363%209.363%200%200%200-3.394%204.547c1.713-2.04%205.004-3.424%208.772-3.424zm.001%2013.295c-3.768%200-7.06-1.381-8.768-3.425a9.363%209.363%200%200%200%203.394%204.547A9.238%209.238%200%200%200%2012.33%2021a9.238%209.238%200%200%200%205.377-1.729%209.363%209.363%200%200%200%203.393-4.547c-1.712%202.044-5.003%203.425-8.772%203.425Z%22%2F%3E%3C%2Fsvg%3E&logoColor=%23F37626&logoSize=%2520&labelColor=%23F37626&color=%23F37626)
@@ -30,22 +33,23 @@ Hi, I'm Himanshu — a **full stack developer** 🧑‍💻 and **app developer*
 ![](https://komarev.com/ghpvc/?username=HNinja01&color=yellowgreen&style=flat-square)
 
 # ✨Fun Zone: <div align=""><img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/></div>
+
+
 <!-- Top Banner -->
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" style="margin-bottom: 20px;">
 </div>
 
-<!-- GIF Collage Table -->
-<table align="center">
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400" height="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/f33c5d19-64ae-41c5-be85-8d86b37a5a0d" width="400" height="300"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="400" height="300"></td>
-    <td><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400" height="300"></td>
-  </tr>
-</table>
+
+<!-- GIF Collage -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="45%">
+  <img src="https://github.com/user-attachments/assets/f33c5d19-64ae-41c5-be85-8d86b37a5a0d" width="45%">
+<br>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="45%">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="45%">
+</p>
+
 
 <!-- Bottom Banner -->
 <div align="center">
